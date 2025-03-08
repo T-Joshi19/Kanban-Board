@@ -1,0 +1,10 @@
+.column {
+    background: #120d0d;
+    padding: 10px;
+    width: 250px;
+    border-radius: 8px;
+  }
+  .task-list {
+    margin-top: 10px;
+  }
+  
