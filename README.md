@@ -1,12 +1,23 @@
-# React + Vite
+# 📌 Kanban Board – Task Management App 🎯  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 **Kanban Board** is a **dynamic and interactive task management app** built using **ReactJS** and **Redux**. It allows users to seamlessly **add, move, and organize tasks** using a **drag-and-drop interface**—just like Trello! 🎉  
 
-Currently, two official plugins are available:
+![Kanban Preview](https://your-image-link-here.com) *(Optional: Add a screenshot or GIF of your project in action!)*  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌟 Features  
+✅ **Drag-and-drop functionality** – Move tasks effortlessly across different stages.  
+✅ **Real-time task management** – Add, edit, delete, and search tasks.  
+✅ **Beautiful UI & smooth animations** – Designed for a seamless user experience.  
+✅ **State management with Redux** – Ensuring efficient task updates.  
+✅ **Fast and optimized performance** – Powered by **Vite**.  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack  
+- **Frontend:** ReactJS (with Redux)  
+- **State Management:** Redux Toolkit  
+- **Styling:** CSS / TailwindCSS  
+- **Build Tool:** Vite
+
